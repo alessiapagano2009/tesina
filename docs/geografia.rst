@@ -2,55 +2,47 @@
 Geografia
 =========
 
-La Florida
-==========
-
-Territorio e Ambiente
----------------------
-
-La **Florida** è uno stato degli Stati Uniti d'America.
-
-Si estende per buona parte dell'omonima penisola ed è bagnata ad ovest dal **Golfo del Messico**, mentre a nord confina con gli **Stati della Georgia e dell'Alabama** e ad est si affaccia
-sull'**Oceano Atlantico**.
-
-Per la sua posizione, gode di un clima subtropicale, caldo e umido che favorisce lo sviluppo di una ricca vegetazione e la produzione di ortaggi.
-
-Il territorio è quasi completamente pianeggiante, sono presenti infatti solo alcune modeste zone collinari nella parte centrale dello Stato.
-
-I fiumi principali sono il **Saint Johns**, il **Caloosahatchee**, il **Suwannee** e l'**Apalachicola**.
-
-Dal sottosuolo si estraggono **fosfati** e **minerali di titanio**.
-
-.. image:: _images/florida.png
+.. image:: _images/oceania.jpeg
    :align: center
    :height: 230px
 
-Economia
+L’Oceania
+=========
+
+L'**Oceania** è un continente che ha come parte continentale l'Australia che comprende la maggior parte delle isole dell'oceano Pacifico.
+
+L'appellativo "**nuovissimo**" deriva dal fatto che, eccetto l'Antartide, fu l'ultimo a essere scoperto dagli europei e l'ultimo a essere completamente popolato dall'uomo.
+
+La più grande catena montuosa è Divisoria e ci sono pochi fiumi e laghi.
+
+Temperatura
+-----------
+I contrasti termici maggiori si hanno nelle regioni dell’interno australiano, caratterizzate da un clima continentale con forti escursioni termiche durante l’anno e scarse precipitazioni.
+La maggior parte delle isole è invece caratterizzata da un clima uniforme con temperature mitigate dai venti e da abbondanti precipitazioni.
+La Nuova Zelanda e le coste dell’Australia sud orientale hanno invece un clima temperato.
+
+Popolazione
+-----------
+L’Oceania è la parte del mondo meno popolata con una densità di 3 abitanti per Kmq.
+
+Inoltre la popolazione non è distribuita in modo omogeneo.
+
+In Oceania ci sono molte razze di cui le più importanti sono l’australiana, tasmaniana e la melanesiana che sono tra le razze più primitive.
+
+Lingua e religione
+------------------
+La religione più professata è il cristianesimo mentre la lingua più parlata è l’inglese.
+
+Attività
 --------
+L’agricoltura ha avuto un notevole sviluppo dopo le forti emigrazioni dall’Europa.
 
-La principale risorsa economica è il **turismo**, favorito da numerosi centri balneari attrezzati e frequentati soprattutto d'inverno.
+I prodotti principali sono il frumento, la frutta, la canna da zucchero e gli agrumi.
 
-Nel settore secondario le industrie principali sono quelle **meccaniche**, **aerospaziali**, del **legno**, della **carta** e **alimentari**.
+Dalle foreste tropicali si ricavano legni duri molto pregiati.
 
-Mentre nel settore primario troviamo soprattutto diffusa produzione di **ortaggi**, **frutta**, **agrumi**, **tabacco**, **canna da zucchero**, **mais** e **arachidi**.
+Importanza fondamentale riveste l’allevamento soprattutto ovino e di conseguenza la produzione di lana e le industrie ad essa collegate.
 
-Diffuso è anche l'**allevamento bovino e suino** ed è anche praticata la **pesca**.
+Per quanto riguarda i prodotti minerari i principali sono l’oro, il piombo, lo zinco, l’uranio, il carbone, il petrolio ed i gas naturali e la bauxite; il ferro ed il nickel si trovano principalmente in Australia e Nuova Caledonia, il rame e l’argento in Nuova Guinea, ed infine i fosfati a Nauru.
 
-Sede Centrale NASA - Storia
----------------------------
-
-Il **John F. Kennedy Space Center** è la struttura per il lancio di veicoli spaziali della NASA e si trova a Cape Canaveral sull'isola Merritt in Florida, USA.
-
-Cape Canaveral si chiamò, dal 1963 al 1973, Cape Kennedy, nome con il quale è ancor oggi indicato nella storia del Programma Apollo, ovvero il programma spaziale che portò allo sbarco
-dei primi uomini sulla Luna.
-
-In questa stazione vennero lanciati tutti i progetti Apollo, dal primo fino all’ultimo.
-
-La stazione subì anche gravi incidenti. Uno dei momenti più bui della storia della Nasa e di quella dell'esplorazione spaziale in generale fu il disastro del **Challenger**
-avvenuto il 28 gennaio 1986.
-
-Dopo solo 73 secondi dal lancio, il **Challenger** si disintegrò in aria, in seguito al guasto di una guarnizione nel razzo che provocò una fuoriuscita di fiamme e il cedimento
-del serbatoio esterno dello Shuttle, pieno di ossigeno e idrogeno liquidi.
-
-La capsula contenente l'equipaggio, rimasta intera, proseguì la sua traiettoria orbitale per schiantarsi sull'oceano 2 minuti e 45 secondi dopo la rottura.
-Probabilmente, almeno parte dell'equipaggio era ancora vivo al momento dello schianto.
+Le attività industriali sono in continuo sviluppo specialmente in Australia, con importanti impianti siderurgici e chimici ed in Nuova Zelanda dove riveste grossa importanza l’industria alimentare.
