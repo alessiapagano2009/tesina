@@ -13,15 +13,14 @@ Ho scelto quest’argomento perché fin da piccola sono stata affascinata dall'i
 .. toctree::
    :maxdepth: -1
 
-   scienze
-   musica
-   arte
-   storia
-   spagnolo
    letteratura
-   inglese
+   arte
    geografia
-   scienze_motorie
+   spagnolo
+   inglese
+   storia
+   scienze
    tecnologia
    cittadinanza_costituzione
-   religione
+   scienze_motorie
+   musica
