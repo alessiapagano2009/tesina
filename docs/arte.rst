@@ -5,24 +5,30 @@ Arte
 Polinesia del mare di Henri Matisse
 ===================================
 
+.. image:: _images/Henri-Matisse.jpg
+   :align: center
+   :height: 300px
+
+**Henri-Émile-Benoît Matisse** è stato un pittore, incisore, illustratore e scultore francese.
+
+**Matisse** è uno dei più noti artisti del XX secolo, esponente di maggior spicco della corrente artistica dei Fauves.
+
+Matisse usava partire dalla raffigurazione della realtà, trasformandola poi in forme semplificate e appiattite attraverso l'accostamento di colori primari e secondari puri, accesi, luminosi, privi ormai di riferimento alla descrizione naturale.
+
 .. image:: _images/polinesia_mare.jpg
    :align: center
    :height: 300px
 
-"**Polinesia del mare**" di Henri Matisse è un'opera affascinante e vibrante che cattura l'essenza e l'esotismo dell'arcipelago polinesiano.
+"**Polinesia del mare**" di Henri Matisse è un'opera affascinante e vibrante che viene ispirata dall’arcipelago polinesiano.
 
-Realizzata nel 1946, l'opera rappresenta un momento importante nella carriera artistica di Matisse, poiché è stata creata dopo un lungo periodo di convalescenza durante il quale l'artista ha trascorso molto tempo a studiare e ad apprezzare l'arte e la cultura polinesiana.
+Realizzata nel 1946 è stata creata dopo un lungo periodo di convalescenza durante il quale l'artista ha trascorso molto tempo a studiare e ad apprezzare l'arte e la cultura polinesiana e infatti questo dipinto rappresenta un momento importante della sua vita.
 
-La tela si presenta come una composizione di forme stilizzate e colori audaci, che creano una sensazione di vitalità e energia.
+Matisse utilizza colori brillanti e vivaci delle isole polinesiane. Le tonalità di blu, verde e rosso si mescolano perfettamente, creando una sensazione di movimento e di vita marina.
 
-Matisse utilizza una palette vivace e luminosa, che richiama i colori brillanti e vivaci delle isole polinesiane.
+La composizione dell'opera è ricca di elementi distintivi, le linee curve e sinuose che richiamano le onde del mare e i dettagli iconici delle culture polinesiane, come i totem.
 
-Le tonalità di blu, verde e rosso si mescolano armoniosamente, creando una sensazione di movimento e di vita marina.
+Il dipinto è un esempio della capacità di Matisse di sintetizzare la realtà attraverso forme e colori astratti.
 
-La composizione dell'opera è ricca di elementi distintivi, come i motivi floreali stilizzati, le linee curve e sinuose che richiamano le onde del mare e i dettagli iconici delle culture polinesiane, come le maschere e i totem.
+La passione di Matisse per la cultura polinesiana si riflette in ogni pennellata, trasmettendo una forte ammirazione per la cultura polinesiana.
 
-"Polinesia del mare" è un esempio della capacità di Matisse di sintetizzare la realtà attraverso forme e colori astratti, creando una visione artistica unica.
-
-La passione di Matisse per la cultura polinesiana si riflette in ogni pennellata, trasmettendo una sensazione di rispetto e ammirazione per questa cultura.
-
-Nel complesso, "Polinesia del mare" di Henri Matisse è un'opera straordinaria che incanta gli occhi e stimola la mente. La sua bellezza e la sua vivacità rendono omaggio alla ricchezza culturale e all'esotismo delle isole polinesiane. È un'opera che continua a ispirare e a incantare il pubblico, dimostrando l'abilità di Matisse di creare arte che va al di là della semplice rappresentazione visiva e che trasmette emozioni profonde.
+Quindi "**Polinesia del mare**" di Henri Matisse è un'opera straordinaria che incanta gli occhi delle persone. È un'opera che continua a ispirare e a incantare il pubblico, dimostrando l'abilità di Matisse di creare arte che va al di là della semplice rappresentazione visiva e che trasmette emozioni profonde e ammirative.

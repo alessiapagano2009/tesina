@@ -69,9 +69,9 @@ extensions = [
     'sphinx.ext.githubpages'
 ]
 html_theme_options = {
-    'base_url': 'https://alessiapagano.github.io/tesina',
-    'repo_url': 'https://github.com/alessiapagano/tesina/',
-    'repo_name': 'alessiapagano/tesina',
+    'base_url': 'https://alessiapagano2009.github.io/tesina',
+    'repo_url': 'https://github.com/alessiapagano2009/tesina/',
+    'repo_name': 'alessiapagano2009/tesina',
     'nav_title': "Il Mare",
     'html_minify': True,
     'css_minify': True,
