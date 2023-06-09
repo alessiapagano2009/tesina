@@ -15,11 +15,12 @@ Nacque a Recanati nell’anno 1798, nelle Marche da una famiglia della nobiltà 
 
 Altra importante opera scritta da Leopardi è la poesia “**L’Infinito**”, in cui contempla l’immensità del mare.
 
-Nella poesia “**L'Infinito**”, Leopardi volge lo sguardo ad elementi paesaggistici a lui familiari che lo portano ad avere una profonda riflessione sui misteri dell’esistenza.
+Nella poesia “**L'Infinito**”, Leopardi guarda elementi del paesaggio a lui familiari che lo portano a riflettere sui misteri dell’esistenza.
 
-La poesia si compone di due parti: **nella prima** ci vengono presentate la “collina solitaria” e la “siepe”, l’ostacolo visivo che impedisce di osservare “gran parte dell’estrema linea dell’orizzonte”. Questo impedimento porta il poeta a lasciare la dimensione della realtà per passare al piano dell’immaginazione, figurandosi “spazi sterminati, e silenzi non concepibili dalla mente umana, e una quiete profondissima” che quasi lo lasciano sbigottito.
+La poesia si compone di due parti:
 
-Nella **seconda parte**, Leopardi è riportato nel piano della realtà dal rumore del vento tra le fronde degli alberi, una percezione (questa volta acustica), che il poeta compara al silenzio sovraumano dell’infinito spaziale, giungendo con il pensiero a cogliere anche un’infinito temporale, l’eternità, fatta dalle “epoche passate e ora scomparse” e del “tempo attuale, presente, vivente”.
+#. nella **prima parte** il poeta è seduto sul colle Tabor, a Recanati, e una “siepe” impedisce di osservare “gran parte dell’estrema linea dell’orizzonte”. Questo limite dato dalla siepe, permette al poeta di lasciarsi andare con l’immaginazione, figurandosi “spazi sterminati, e silenzi non concepibili dalla mente umana, e una quiete profondissima” che quasi lo lasciano sbigottito.
+#. nella **seconda parte**, il fruscio delle foglie mosse dal vento lo richiama alla realtà, ed il poeta confronta questa percezione con l’**infinito silenzio** dello spazio e l'**infinito temporale**, l’**eternità**, fatta dalle “epoche passate e ora scomparse” e dal “tempo attuale, presente, vivente”.
 
 L'ultimo verso, il più famoso dell’intera storia della letteratura italiana, recita:
 
