@@ -20,10 +20,12 @@ La maggior parte dei rifiuti che troviamo in mare sono spesso bottiglie, imballa
    :align: center
    :height: 300px
 
-Questa plastica fa molto male alla fauna marina come i pesci, le tartarughe o i delfini che molto spesso muoiono o per problemi intestinali, a causa della plastica che ingeriscono, o perché intrappolati dalla stessa.
+Questa plastica danneggia la fauna marina come i pesci, le tartarughe o i delfini che molto spesso muoiono perché ingeriscono involontariamente plastica, o perché intrappolati dalla stessa.
 
 I pesci ingeriscono plastica perché non riescono a distinguere le microparticelle di plastica dalle altre sostanze nutritive.
 
-E anche noi la ingeriamo quando, catturati dai pescatori, questi pesci arrivano sulle nostre tavole.
+E anche ingeriamo microplastica, avvelenando il nostro organismo, quando questi pesci arrivano sulle nostre tavole catturati dai pescatori.
 
-È quindi molto importante cercare di utilizzare meno plastica e non inquinare più né il mare né la terra.
+È quindi molto importante cercare di utilizzare meno plastica e smettere di inquinare il mare e la terra.
+
+Alcuni studi dimostrano che non è ancora troppo tardi per salvare i nostri oceani e riportarli ad essere habitat puliti e ricchi di risorse.

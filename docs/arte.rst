@@ -2,7 +2,7 @@
 Arte
 ====
 
-Polinesia del mare di Henri Matisse
+Polinesia, il mare di Henri Matisse
 ===================================
 
 .. image:: _images/Henri-Matisse.jpg
@@ -15,20 +15,19 @@ Matisse è uno dei più noti artisti del XX secolo, esponente di maggior spicco 
 
 Matisse era solito partire dalla raffigurazione della realtà per poi trasformarla in forme semplificate e appiattite attraverso l'accostamento di colori primari e secondari puri, accesi e luminosi.
 
-Tra i dipinti di Matisse in cui ritroviamo il tema del mare ricordiamo “**Polinesia del mare**”.
+Tra i dipinti di Matisse in cui ritroviamo il tema del mare ricordiamo “**Polinesia, il mare**”.
 
 .. image:: _images/polinesia_mare.jpg
    :align: center
    :height: 300px
 
-"**Polinesia del mare**" è un'opera meravigliosa ispirata all’arcipelago polinesiano, realizzata nel 1946 e creata dall’artista dopo un lungo periodo di convalescenza durante il quale trascorse molto tempo a studiare e ad apprezzare l'arte e la cultura polinesiana,  e infatti questo dipinto rappresenta un momento importante della sua vita.
+"**Polinesia, il mare**" è un'opera meravigliosa ispirata all’arcipelago polinesiano, realizzata nel 1946 e creata dall’artista dopo un lungo periodo di convalescenza durante il quale trascorse molto tempo a studiare e ad apprezzare l'arte e la cultura polinesiana, e infatti questo dipinto rappresenta un momento importante della sua vita.
 
-Matisse utilizza colori brillanti e vivaci delle isole polinesiane. Le tonalità di blu, verde e rosso si mescolano perfettamente, creando una sensazione di movimento e di vita marina.
+Il dipinto rappresenta una scena del mare polinesiano, che è noto per le sue acque cristalline e i colori vivaci. I colori dominanti sono il blu intenso e il verde, che rappresentano l'oceano in tutte le sue sfumature.
 
-La composizione dell'opera è ricca di elementi distintivi, le linee curve e sinuose che richiamano le onde del mare e i dettagli iconici delle culture polinesiane, come i totem.
+Le onde dell'oceano sono raffigurate con linee ondulate e curve, dando un senso di dinamismo e vitalità.
 
-Il dipinto è un esempio della capacità di Matisse di sintetizzare la realtà attraverso forme e colori astratti.
+La passione di Matisse per la cultura polinesiana si riflette in ogni pennellata, trasmettendo una forte ammirazione per questa cultura.
 
-La passione di Matisse per la cultura polinesiana si riflette in ogni pennellata, trasmettendo una forte ammirazione per questa la cultura.
-
-"**Polinesia del mare**" di Henri Matisse è un'opera straordinaria che continua a ispirare e a incantare il pubblico, dimostrando l'abilità di Matisse di creare arte che va al di là della semplice rappresentazione visiva e che trasmette emozioni profonde e ammirative.
+"**Polinesia, il mare**" di Henri Matisse è un'opera straordinaria che mostra l'amore di Matisse per i colori e la sua abilità nel catturare
+l'essenza di un luogo attraverso la sua pittura.

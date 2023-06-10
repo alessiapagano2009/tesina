@@ -15,7 +15,6 @@ Noto con il nome in codice di "**Operazione Overlord**", lo sbarco alleato sulle
 
 .. image:: _images/sbarcoNormandia.jpg
    :align: center
-   :height: 300px
 
 Questa operazione, che fu anche una delle più complesse della storia, fu organizzata facendo attenzione al minimo dettaglio. L’obiettivo era eliminare il nazismo in Europa che si stava diffondendo velocemente come un virus.
 
@@ -26,13 +25,6 @@ Le forze alleate lanciarono un assalto combinato navale, aereo e terrestre contr
 Il 6 giugno 1944 le forze aeree si lanciarono in paracadute su diversi punti della Francia. Poco dopo le truppe terrestri sbarcarono su cinque spiagge e dettero inizio all’assalto via mare.
 
 Il giorno dello sbarco le forze alleate erano composte soprattutto da truppe statunitensi, britanniche e canadesi, ma inclusero l’appoggio navale, aereo o terrestre di Australia, Belgio, Repubblica Ceca, Olanda, Francia, Grecia, Nuova Zelanda, Norvegia, Rhodesia e Polonia.
-
-.. figure:: _images/sbarcoNormandia2.jpg
-   :align: center
-   :figwidth: 400
-   :alt: Le rotte degli assalti
-
-   Le rotte degli assalti
 
 La battaglia di Normandia durò quasi tre mesi, molto più a lungo di quanto gli strateghi alleati avessero previsto.
 
