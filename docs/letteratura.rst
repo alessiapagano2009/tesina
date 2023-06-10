@@ -3,6 +3,8 @@ Italiano
 ========
 
 .. image:: _images/infinitoLeopardi.jpg
+   :align: center
+   :height: 300px
 
 Cenni di vita di Giacomo Leopardi
 =================================
@@ -11,7 +13,8 @@ Nacque a Recanati nell’anno 1798, nelle Marche da una famiglia della nobiltà 
 presto iniziò a studiare da solo grazie alla grande libreria del padre. Nel **1822** si trasferì a **Roma** sia per un suo interesse nell'entrare nel mondo
 degli intellettuali sia per intraprendere una carriera ecclesiastica. Dopo poco però Leopardi tornò a casa deluso dall’ignoranza che aveva visto a Roma.
 
-Scrisse molte poesie importanti e note come ad esempio “**A Silvia**” dedicata alla sua amata, Teresa Fattorini, figlia del cocchiere di casa Leopardi morta a soli ventun anni per tisi polmonare.
+Scrisse molte poesie importanti e note come ad esempio “**A Silvia**” dedicata alla sua amata, Teresa Fattorini, figlia del cocchiere di casa Leopardi
+morta a soli ventun anni per tisi polmonare.
 
 Morì nel **1837** a **Napoli** a soli 39 anni.
 
@@ -23,8 +26,12 @@ Nella poesia “**L'Infinito**”, Leopardi guarda elementi del paesaggio a lui 
 
 La poesia si compone di due parti:
 
-#. nella **prima parte** il poeta è seduto sul colle Tabor, a Recanati, e una “siepe” impedisce di osservare “gran parte dell’estrema linea dell’orizzonte”. Questo limite dato dalla siepe, permette al poeta di lasciarsi andare con l’immaginazione, figurandosi “spazi sterminati, e silenzi non concepibili dalla mente umana, e una quiete profondissima” che quasi lo lasciano sbigottito.
-#. nella **seconda parte**, il fruscio delle foglie mosse dal vento lo richiama alla realtà, ed il poeta confronta questa percezione con l’**infinito silenzio** dello spazio e l'**infinito temporale**, l’**eternità**, fatta dalle “epoche passate e ora scomparse” e dal “tempo attuale, presente, vivente”.
+#. nella **prima parte** il poeta è seduto sul colle Tabor, a Recanati, e una “siepe” impedisce di osservare “gran parte dell’estrema linea dell’orizzonte”.
+Questo limite dato dalla siepe, permette al poeta di lasciarsi andare con l’immaginazione, figurandosi “spazi sterminati, e silenzi non concepibili
+dalla mente umana, e una quiete profondissima” che quasi lo lasciano sbigottito.
+#. nella **seconda parte**, il fruscio delle foglie mosse dal vento lo richiama alla realtà, ed il poeta confronta questa percezione con
+l’**infinito silenzio** dello spazio e l'**infinito temporale**, l’**eternità**, fatta dalle “epoche passate e ora scomparse” e dal “tempo attuale,
+presente, vivente”.
 
 L'ultimo verso, il più famoso dell’intera storia della letteratura italiana, recita:
 
@@ -32,9 +39,11 @@ L'ultimo verso, il più famoso dell’intera storia della letteratura italiana, 
 
     "Così tra questa immensità s'annega il pensier mio: e il naufragar m'è dolce in questo mare. "
 
-Al termine della lirica, quindi, il poeta richiama il mare che dà l'idea dello spazio vasto, senza limiti. Il poeta si ritrova non solo più vicino all’infinito, ma vi si abbandona dolcemente.
+Al termine della lirica, quindi, il poeta richiama il mare che dà l'idea dello spazio vasto, senza limiti. Il poeta si ritrova non solo più vicino
+all’infinito, ma vi si abbandona dolcemente.
 
-Leggendo questa lirica è possibile percepire tutta la potenza dell’immaginazione, il piacere di questo dolce naufragio, ma anche lo sgomento che provoca il pensiero di una realtà così vasta, di un’eternità che scorre senza interruzioni, legando il passato al presente, e il presente al futuro.
+Leggendo questa lirica è possibile percepire tutta la potenza dell’immaginazione, il piacere di questo dolce naufragio, ma anche lo sgomento
+che provoca il pensiero di una realtà così vasta, di un’eternità che scorre senza interruzioni, legando il passato al presente, e il presente al futuro.
 
 L'idillio si basa su un confronto continuo tra **limite** e **infinito**, tra **suoni della realtà** e il **silenzio dell'eternità**.
 

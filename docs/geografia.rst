@@ -4,7 +4,7 @@ Geografia
 
 .. image:: _images/oceania.jpeg
    :align: center
-   :height: 230px
+   :height: 300px
 
 L’**Oceania** è una vasta regione nell’Oceano Pacifico, da molti considerata per convenzione un continente: oltre all’**Australia**,
 il vero e proprio continente, essa comprende due grandi isole – **Nuova Guinea** e **Nuova Zelanda** – e decine di migliaia di piccole isole.

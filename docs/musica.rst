@@ -11,7 +11,8 @@ una cattiva strada.
 
 Mare fuori
 ==========
-La serie televisiva "Mare fuori" racconta le storie di una serie di ragazzi finiti in un carcere minorile, dalle cui sbarre vedono quel mare ormai lontano per tutti loro.
+La serie televisiva "Mare fuori" racconta le storie di una serie di ragazzi finiti in un carcere minorile, dalle cui sbarre vedono quel mare ormai
+lontano per tutti loro.
 
 La storia racconta sia di ragazzi provenienti dai contesti più poveri e totalmente inghiottiti dal buio della camorra che di giovani provenienti
 da famiglie perbene e benestanti, riuniti tutti tra le mura del carcere minorile di Napoli.

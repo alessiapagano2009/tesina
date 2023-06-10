@@ -19,6 +19,8 @@ latex_documents = [
     ('index', 'Mare.tex', project, author, 'manual'),
 ]
 latex_elements = {
+    'pointsize': '12pt',
+    'pxunit': '0.50bp',
     'extraclassoptions': 'openany,oneside',
     'releasename': 'IC22 "Alberto Mario" - A.S. 2022/2023'
 }
