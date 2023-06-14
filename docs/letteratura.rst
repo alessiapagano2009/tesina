@@ -11,6 +11,7 @@ Cenni di vita di Giacomo Leopardi
 **Giacomo Leopardi** fu uno degli scrittori più importanti della letteratura italiana.
 Nacque a Recanati nell’anno 1798, nelle Marche da una famiglia della nobiltà clericale. Fin da piccolo mostrò il suo talento negli studi ed infatti ben
 presto fu in grado di continuare da solo la propria formazione culturale usando la ricca libreria del padre.
+
 Nel **1822** si trasferì a **Roma** sia per un suo interesse nell'entrare nel mondo degli intellettuali sia per intraprendere una carriera ecclesiastica.
 Dopo poco Leopardi tornò a casa deluso dall’ignoranza che aveva trovato a Roma.
 
