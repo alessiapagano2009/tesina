@@ -28,12 +28,9 @@ Nella poesia “**L'Infinito**”, Leopardi guarda elementi del paesaggio a lui 
 
 La poesia si compone di due parti:
 
-#. nella **prima parte** il poeta è seduto sul colle Tabor, a Recanati, e una “siepe” impedisce di osservare “gran parte dell’estrema linea dell’orizzonte”.
-Questo limite dato dalla siepe, permette al poeta di lasciarsi andare con l’immaginazione, figurandosi “spazi sterminati, e silenzi non concepibili
-dalla mente umana, e una quiete profondissima” che quasi lo lasciano sbigottito.
-#. nella **seconda parte**, il fruscio delle foglie mosse dal vento lo richiama alla realtà, ed il poeta confronta questa percezione con
-l’**infinito silenzio** dello spazio e l'**infinito temporale**, l’**eternità**, fatta dalle “epoche passate e ora scomparse” e dal “tempo attuale,
-presente, vivente”.
+#. nella **prima parte** il poeta è seduto sul colle Tabor, a Recanati, e una “siepe” impedisce di osservare “gran parte dell’estrema linea dell’orizzonte”. Questo limite dato dalla siepe, permette al poeta di lasciarsi andare con l’immaginazione, figurandosi “spazi sterminati, e silenzi non concepibili dalla mente umana, e una quiete profondissima” che quasi lo lasciano sbigottito.
+
+#. nella **seconda parte**, il fruscio delle foglie mosse dal vento lo richiama alla realtà, ed il poeta confronta questa percezione con l’**infinito silenzio** dello spazio e l'**infinito temporale**, l’**eternità**, fatta dalle “epoche passate e ora scomparse” e dal “tempo attuale, presente, vivente”.
 
 L'ultimo verso, il più famoso dell’intera storia della letteratura italiana, recita:
 
@@ -57,36 +54,22 @@ Poesia e parafrasi
 Testo
 -----
 
-.. code-block::
+.. code-block:: rst
 
     Sempre caro mi fu quest’ermo colle,
-
     e questa siepe, che da tanta parte
-
     dell'ultimo orizzonte il guardo esclude.
-
     Ma sedendo e mirando, interminati
-
     spazi di là da quella, e sovrumani
-
     silenzi, e profondissima quiete
-
     io nel pensier mi fingo; ove per poco
-
     il cor non si spaura. E come il vento
-
     odo stormir tra queste piante, io quello
-
     infinito silenzio a questa voce
-
     vo comparando: e mi sovvien l'eterno,
-
     e le morte stagioni, e la presente
-
     e viva, e il suon di lei. Così tra questa
-
     immensità s'annega il pensier mio:
-
     e il naufragar m'è dolce in questo mare.
 
 Parafrasi
