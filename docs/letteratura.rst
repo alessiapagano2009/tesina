@@ -9,9 +9,10 @@ Italiano
 Cenni di vita di Giacomo Leopardi
 =================================
 **Giacomo Leopardi** fu uno degli scrittori più importanti della letteratura italiana.
-Nacque a Recanati nell’anno 1798, nelle Marche da una famiglia della nobiltà clericale. Fin da piccolo mostrò il suo talento nello studio ed infatti ben
-presto iniziò a studiare da solo grazie alla grande libreria del padre. Nel **1822** si trasferì a **Roma** sia per un suo interesse nell'entrare nel mondo
-degli intellettuali sia per intraprendere una carriera ecclesiastica. Dopo poco però Leopardi tornò a casa deluso dall’ignoranza che aveva visto a Roma.
+Nacque a Recanati nell’anno 1798, nelle Marche da una famiglia della nobiltà clericale. Fin da piccolo mostrò il suo talento negli studi ed infatti ben
+presto fu in grado di continuare da solo la propria formazione culturale usando la ricca libreria del padre.
+Nel **1822** si trasferì a **Roma** sia per un suo interesse nell'entrare nel mondo degli intellettuali sia per intraprendere una carriera ecclesiastica.
+Dopo poco Leopardi tornò a casa deluso dall’ignoranza che aveva trovato a Roma.
 
 Scrisse molte poesie importanti e note come ad esempio “**A Silvia**” dedicata alla sua amata, Teresa Fattorini, figlia del cocchiere di casa Leopardi
 morta a soli ventun anni per tisi polmonare.

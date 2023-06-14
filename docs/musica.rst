@@ -11,13 +11,13 @@ una cattiva strada.
 
 Mare fuori
 ==========
-La serie televisiva "Mare fuori" racconta le storie di una serie di ragazzi finiti in un carcere minorile, dalle cui sbarre vedono quel mare ormai
+La serie televisiva "Mare fuori" racconta le storie di ragazzi finiti in un carcere minorile, dalle cui sbarre vedono quel mare ormai
 lontano per tutti loro.
 
 La storia racconta sia di ragazzi provenienti dai contesti più poveri e totalmente inghiottiti dal buio della camorra che di giovani provenienti
 da famiglie perbene e benestanti, riuniti tutti tra le mura del carcere minorile di Napoli.
 
-Il mare fuori le sbarre è per molti l’unica salvezza, il luogo a cui anelare per poter tornare a respirare la libertà che agognano.
+Il mare è per molti l’unica salvezza, il luogo a cui anelare per poter tornare a respirare la libertà tanto desiderata.
 
 Colonna sonora
 ==============
@@ -33,7 +33,7 @@ Colonna sonora
 
     C sta o mar for, c sta o mar for
 
-La canzone attira l’attenzione su temi importanti quali i giovani, la detenzione il desiderio di riscatto.
+La canzone attira l’attenzione su temi importanti quali i giovani, la detenzione, il desiderio di riscatto.
 Ci riesce parlando di storie di strada, di criminalità e riscatto dentro l'istituto penale davanti al mare.
 
 La frase più significativa, “**C’è sta o mar for**”, è un messaggio di speranza che dice:

@@ -11,8 +11,7 @@ La gara di nuoto **Capri - Napoli** è una delle più antiche e difficili marato
    :align: center
    :height: 300px
 
-Nel 1949 due appassionati nuotatori, **Aldo Fioravanti** e **Cesare Alfieri**, coprirono per primi a nuoto, in circa 12 ore, il tragitto da Napoli a Capri,
-con una media di 30 bracciate per minuto.
+Nel 1949 due appassionati nuotatori, **Aldo Fioravanti** e **Cesare Alfieri**, coprirono per primi a nuoto, in circa 12 ore, il tragitto da Napoli a Capri.
 
 La prima edizione risale al 1° agosto 1954 e fino al 1992 ha assegnato, su gara unica, il titolo mondiale delle lunghe distanze.
 
@@ -21,12 +20,11 @@ La gara fu sospesa fra il 1993 ed il 2002 e venne ripresa solo nel 2003, anno da
 Il golfo di Napoli è l’affascinante campo gara di questa storica competizione che, normalmente, parte da Marina Grande a Capri ed arriva presso il
 lungomare di Napoli, sulla distanza di 36 km.
 
-Originariamente promossa come traversata libera, si sviluppò diventando una **due giorni** in cui gli atleti, partiti dal lungomare di Napoli,
-raggiungevano l'Isola di Capri, sulla quale sostavano e si riposavano e da cui ripartivano la mattina del giorno dopo, per ripercorrere tragitto
+Originariamente promossa come traversata libera, si sviluppò diventando una '**due giorni**' in cui gli atleti, partiti dal lungomare di Napoli,
+raggiungevano l'isola di Capri, sulla quale sostavano e si riposavano e da cui ripartivano la mattina del giorno dopo, per ripercorrere tragitto
 a ritroso verso il traguardo finale di Napoli.
 
-La durata di gara per i vincitori, negli ultimi anni, è compresa tra le 6 ore e 4' e le 6 ore e 45', soprattutto  in relazione alle condizioni del mare.
-Tempi molto lontani da quelli delle prime edizioni, quando la vittoria arrivava dopo aver nuotato ben oltre le 10 ore!
+La durata di gara per i vincitori, negli ultimi anni, è di poco superiore alle 6 ore. Tempi molto lontani da quelli delle prime edizioni,
+quando la vittoria arrivava dopo aver nuotato ben oltre le 10 ore!
 
-Il record di vittorie individuali appartiene ad un italiano, il napoletano **Giulio Travaglio**, trionfatore all'arrivo per ben 5 volte (1965, 1966, 1967, 1968 e 1970),
-rappresentante di una grande e lunga tradizione natatoria italiana in questa disciplina.
+Il record di vittorie individuali appartiene al napoletano **Giulio Travaglio**, trionfatore all'arrivo per ben 5 volte (1965, 1966, 1967, 1968 e 1970).

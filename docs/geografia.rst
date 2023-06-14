@@ -29,11 +29,8 @@ Orografia
 Le più elevate catene montuose dell’**Oceania** non si trovano nella terraferma continentale, cioè in Australia, ma nelle tre maggiori
 isole: Nuova Guinea, Isola del Nord e Isola del Sud.
 
-La catena che raggiunge le maggiori altitudini è quella della Nuova Guinea. Ne fanno parte le più alte vette del continente: il **Puncak Jaya** o
-**Carsztens** (4 884 m) ed il **Monte Wilhelm** (4 509 m).
-
-Vengono poi le Alpi Neozelandesi, che percorrono le due isole dell'omonimo arcipelago. Infine vi sono le Alpi Australiane,
-che costeggiano la costa orientale dell'Australia.
+La catena che raggiunge le maggiori altitudini è quella della Nuova Guinea. Seguono poi le Alpi Neozelandesi, che percorrono le due isole
+dell'omonimo arcipelago, e le Alpi Australiane, che costeggiano la costa orientale dell'Australia.
 
 Bisogna segnalare che anche montagne isolate e massicci presenti nelle isole minori raggiungono altezze elevate. Ad esempio
 il vulcano **Mauna Kea**, nell'**Isola di Hawaii** raggiunge i 4 205 metri.

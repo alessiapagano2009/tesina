@@ -18,16 +18,17 @@ alla distanza tra la Luna e la Terra.
 
 Ampiezza, frequenza e orario delle maree sono legati ai fenomeni astronomici e da numerosi aspetti morfologici.
 
-Le stesse forze e gli stessi principi che regolano le maree dei corpi liquidi, agiscono pure sui corpi solidi, in particolare è stata documentata
+Le stesse forze e gli stessi principi che regolano le maree dei corpi liquidi, agiscono pure sui corpi solidi; in particolare è stata documentata
 la deformazione della crosta terrestre.
 
 L'ampiezza effettiva del livello del mare dipende inoltre da fenomeni meteorologici per nulla legati alle maree, ma che ne esaltano gli effetti.
-In particolare si tratta degli effetti del vento.
+In particolare si tratta degli effetti del vento che quando soffia verso la costa innalza il livello del mare sui litorali, mentre quando
+vi è vento da terra verso il largo abbassa il livello presso i litorali.
 
-La Luna, essendo più vicina alla Terra, può esercitare una maggiore forza di attrazione sull’acqua che tende a rigonfiarsi. Meno intuitivo il secondo caso,
-in cui il sollevamento delle acque è determinato dalla forza centrifuga.
+Le maree sono sostanzialmente provocate dall’azione combinata di due forze: l’attrazione gravitazionale esercitata dalla Luna sulla massa acquea e
+la forza centrifuga che nasce dal movimento reciproco della Terra e della Luna nello spazio.
 
-Ugualmente alla Luna, anche il Sole produce un’azione di marea che risulta però meno efficace a causa della notevole distanza Terra-Sole.
+Come la Luna, anche il Sole produce un’azione di marea che risulta però meno efficace a causa della notevole distanza Terra-Sole.
 
 Si possono distinguere due tipi di maree: le **maree vive** e le **maree morte**.
 

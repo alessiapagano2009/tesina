@@ -24,7 +24,7 @@ Un’altra tecnologia che sfrutta l’energia del mare sono gli **idrogeneratori
    :align: center
    :height: 300px
 
-Però c’è una differenza: sono strutture appositamente dimensionate e calibrate per lavorare sul fondale marino, dove vengono posizionate sfruttando l’energia cinetica delle correnti di acqua per produrre energia elettrica.
+A differenza delle pale eoliche, gli **idrogeneratori** sono strutture appositamente dimensionate e calibrate per lavorare sul fondale marino, dove vengono posizionate sfruttando l’energia cinetica delle correnti di acqua per produrre energia elettrica.
 
 Un’altra tipologia di idrogeneratore è la **turbina ad asse verticale** in grado di generare energia tramite l'oscillazione di alcune tavole.
 
